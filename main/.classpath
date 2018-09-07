@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/think/Desktop/HKU/Research/Incident-Detection-Java-master/src/main/dom4j-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/think/Desktop/HKU/Research/Incident-Detection-Java-master/src/main/jackcess-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/think/Desktop/HKU/Research/Incident-Detection-Java-master/src/main/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/think/Desktop/HKU/Research/Incident-Detection-Java-master/src/main/apache-commons-lang.jar"/>
+	<classpathentry kind="lib" path="C:/Users/think/Desktop/HKU/Research/Incident-Detection-Java-master/src/main/common-lang3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/think/Desktop/HKU/Research/Incident-Detection-Java-master/src/main/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/think/Desktop/HKU/Research/Incident-Detection-Java-master/src/main/commons-logging-1.1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
